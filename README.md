@@ -1,7 +1,7 @@
 ![662806](https://github.com/Wildude/Wildude/assets/122345410/390e1107-6ab7-4fc6-a643-ddca607276df)
 ## Hey 👋, I am Firaol Dereje
 ### I am a 2nd year Computer science student in AAU
-### I am good C/C++ programmer
+### I am a good C/C++ programmer
 - 🔭 I’m currently working on Polynomial Finder algorithm
 - 🌱 I’m currently learning JAVA and SQL
 - 💬 Ask me about C/C++
