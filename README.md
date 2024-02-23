@@ -2,7 +2,7 @@
 ## Hey 👋, I am Firaol Dereje
 ### I am a 2nd year Computer science student in AAU
 ### I am a good C/C++ programmer
-- 🔭 I’m currently working on Polynomial Finder algorithm
+- 🔭 I’m currently working on <a href = "https://github.com/Wildude/Polynomial-tracer">Polynomial Finder algorithm</a>
 - 🌱 I’m currently learning JAVA and SQL
 - 💬 Ask me about C/C++
 <!--
