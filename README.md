@@ -4,7 +4,7 @@
 ### I am a good C/C++ programmer
 - 🔭 I’m currently working on <a href = "https://github.com/Wildude/Polynomial-tracer">Polynomial Finder algorithm</a>
 - 🌱 I’m currently learning JAVA and SQL
-- 👯 I’m looking for someone to collab with me on <a href = "">2D video game</a>
+- 👯 I’m looking for someone to collab with me on <a href = "https://github.com/Wildude/2D-video-game">2D video game</a>
 - 💬 Ask me about C/C++
 <!--
 **Wildude/Wildude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
