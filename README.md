@@ -2,8 +2,8 @@
 ## Hey 👋, I am Firaol Dereje
 ### I am a 3rd year Computer science student in AAU
 ### I am a good C/C++ and Java programmer
-- 🔭 I’m currently working on <a href = "https://github.com/Wildude/Polynomial-tracer">Polynomial Finder algorithm</a>
-- 🌱 I’m currently learning SQL and Data structures.
+- 🔭 I’m currently working on <a href = "https://github.com/Wildude/LWJGL-Repo">LWJGL (A Java graphics library)</a>
+- 🌱 I’m currently learning Computer Graphics and OpenGL.
 - 👯 I’m looking for someone to collab with me on <a href = "https://github.com/Wildude/2D-video-game">2D video game</a>
 - 💬 Ask me about C/C++
 <!--
