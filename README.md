@@ -2,10 +2,15 @@
 ## Hey 👋, I am Firaol Dereje
 ### I am a 3rd year Computer science student in AAU
 ### I am a good C/C++ and Java programmer
-- 🔭 I’m currently working on <a href = "https://github.com/Wildude/LWJGL-Repo">LWJGL (A Java graphics library)</a>
-- 🌱 I’m currently learning Computer Graphics and OpenGL.
-- 👯 I’m looking for someone to collab with me on <a href = "https://github.com/Wildude/2D-video-game">2D video game</a>
-- 💬 Ask me about C/C++
+- 🔭 I’m currently working on:
+  - [`LWJGL (A Java graphics library)`]("https://github.com/Wildude/LWJGL-Repo")
+  - [`SDL2 Project (a 2D/3D Game Engine)`]("https://github.com/Wildude/SDL2-Project")
+- 🌱 I’m currently learning:
+  - Advanced data structures 
+  - Numerical methods
+  - Databases (Fundamentals and advanced)
+  - Game engine design
+- 💬 Ask me about C/C++ and Java
 <!--
 **Wildude/Wildude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
