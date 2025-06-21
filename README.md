@@ -3,8 +3,8 @@
 ### I am a 3rd year Computer science student in AAU
 ### I am a good C/C++ and Java programmer
 - 🔭 I’m currently working on:
-  - <a href = "https://github.com/Wildude/LWJGL-Repo">`LWJGL (A Java graphics library)`</a> <br>
-  - <a href = "https://github.com/Wildude/SDL2-Project">`SDL2 Project (a 2D/3D Game Engine)`</a> <br>
+  - [`LWJGL (A Java graphics library)`](https://github.com/Wildude/LWJGL-Repo)
+  - [`SDL2 Project (a 2D/3D Game Engine)`](https://github.com/Wildude/SDL2-Project)
 - 🌱 I’m currently learning:
   - Advanced data structures 
   - Numerical methods
