@@ -6,7 +6,7 @@
   - [`LWJGL (A Java graphics library)`](https://github.com/Wildude/LWJGL-Repo)
   - [`SDL2 Project (a 2D/3D Game Engine)`](https://github.com/Wildude/SDL2-Project)
 - 🌱 I’m currently learning:
-  - Advanced data structures 
+  - Advanced data structures and algorithms
   - Numerical methods
   - Databases (Fundamentals and advanced)
   - Game engine design
